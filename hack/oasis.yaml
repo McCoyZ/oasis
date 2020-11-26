@@ -1,0 +1,4 @@
+kubernetes:
+  KubeConfig: "hack\\config"
+servicemesh:
+  IstioPilotHost: "127.0.0.1"
